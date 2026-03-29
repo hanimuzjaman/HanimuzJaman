@@ -1,12 +1,69 @@
+# 👨‍💻 Hanimuz Jaman  
+### Full Stack Developer • Building Secure Systems • API & Auth Specialist  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanimuzjaman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanimuzjaman0@gmail.com) 
+![Profile Views](https://komarev.com/ghpvc/?username=HanimuzJaman&label=Profile%20Views&color=0e75b6&style=flat)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Security-blue)
+![Status](https://img.shields.io/badge/Status-Actively%20Building-success)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## ⚡ Engineering Focus
+- 🔐 Authentication Systems (QR, OTP, JWT, OAuth)
+- 🧠 Backend Architecture (Spring Boot, Node.js)
+- 🌐 Scalable Frontends (React, performance-first UI)
+- ☁️ Cloud Deployment (AWS EC2, S3, Load Balancer)
+
+---
+
+## 🏦 Experience Snapshot
+
+**Full Stack Developer Intern — HDFC Bank**
+
+Built production-grade authentication systems used in banking workflows:
+
+- Designed **QR-based login system** replacing OTP-heavy flows  
+- Built **WhatsApp authentication service** for real-time verification  
+- Engineered **secure REST APIs (Spring Boot + PostgreSQL)**  
+- Implemented **JWT-based session management**  
+- Delivered **cross-platform Flutter UI for auth flows**  
+
+---
+
+## 🧩 Core Stack
+
+![Stack](https://skillicons.dev/icons?i=js,react,nodejs,spring,postgres,aws,git)
+
+**Backend:** Node.js, Spring Boot, REST APIs  
+**Frontend:** React, Tailwind, Redux  
+**Database:** PostgreSQL, MongoDB  
+**Security:** JWT, OAuth 2.0  
+**Cloud:** AWS (EC2, S3, Load Balancer)
+
+---
+
+## 🚀 Selected Work
+
+### 🔐 Authentication System
+End-to-end auth system with JWT sessions and OAuth login  
+→ Focus: security, session control, protected routes  
+
+### 🤖 AI Resume Analyzer
+LLM-powered resume scoring with zero cloud dependency  
+→ Focus: real-time processing, API integration  
+
+### 🏦 SME Loan Pre-Screen System
+Automated eligibility + document verification platform  
+→ Focus: business logic, data validation  
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HanimuzJaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/hanimuzjaman  
+- 📧 Email: hanimuzjaman0@gmail.com  
+
+---
+
+## 🧠 Developer Mindset
+I don’t focus on building features — I focus on building **systems** that are secure, scalable, and production-ready.
