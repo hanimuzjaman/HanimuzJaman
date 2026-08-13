@@ -10,23 +10,10 @@
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-### `01` &nbsp;whoami
-
-```yaml
-name: Hanimuz Jaman
-role: Java Backend Engineer
-degree: B.Tech CSE (Cloud Technology & Information Security)
-university: Assam Down Town University, Guwahati
-graduating: 2026
-focus: REST APIs · Authentication & Session Management · PostgreSQL
-based_in: Guwahati, Assam, IN
-```
 
 ---
 
-### `02` &nbsp;stack
+### `Tech-stack ` &nbsp;
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -46,51 +33,3 @@ based_in: Guwahati, Assam, IN
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
----
-
-### `03` &nbsp;experience
-
-<table>
-<tr>
-<td>
-
-**Full Stack Developer Intern** · `HDFC Bank`
-Built authentication and backend systems for banking workflows.
-
-- 🔐 Designed QR-based authentication to reduce OTP dependency
-- 💬 Built WhatsApp-based real-time verification
-- ⚙️ Developed secure REST APIs with **Spring Boot + PostgreSQL**
-- 🔑 Implemented JWT-based authentication and session management
-- 📱 Built cross-platform authentication interfaces with Flutter
-
-</td>
-</tr>
-</table>
-
----
-
-### `04` &nbsp;selected systems
-
-<table>
-<tr>
-<th align="left">system</th>
-<th align="left">stack</th>
-<th align="left">description</th>
-</tr>
-<tr>
-<td><b>Authentication Platform</b></td>
-<td><code>Java</code> <code>Spring Boot</code> <code>JWT</code> <code>OAuth 2.0</code> <code>PostgreSQL</code></td>
-<td>End-to-end authentication architecture focused on secure access control, protected APIs, and session management.</td>
-</tr>
-<tr>
-<td><b>AI Resume Analyzer</b></td>
-<td><code>LLM</code> <code>Java</code> <code>REST API</code> <code>Real-time Processing</code></td>
-<td>Resume analysis and scoring system designed around API-driven workflows and real-time processing.</td>
-</tr>
-<tr>
-<td><b>SME Loan Pre-Screening</b></td>
-<td><code>Spring Boot</code> <code>PostgreSQL</code> <code>Business Logic</code></td>
-<td>Automated eligibility evaluation and document verification with validation-driven workflows.</td>
-</tr>
-</table>
